@@ -3,7 +3,7 @@
 ## Development Setup
 
 1. Fork the repository
-2. Clone your fork: `git clone https://github.com/yourusername/zaplink.git`
+2. Clone your fork: `git clone https://github.com/iamindrajitdan/zaplink.git`
 3. Install dependencies:
    ```bash
    cd backend && npm install
