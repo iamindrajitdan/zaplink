@@ -14,6 +14,8 @@ yarn-error.log*
 .env.development.local
 .env.test.local
 .env.production.local
+/backend/.env
+/frontend/.env
 
 # File uploads (local storage)
 /backend/storage/files/*
@@ -37,6 +39,12 @@ coverage/
 .idea/
 *.swp
 *.swo
+
+# TypeScript
+*.tsbuildinfo
+
+# Testing
+/coverage
 
 # OS
 .DS_Store
